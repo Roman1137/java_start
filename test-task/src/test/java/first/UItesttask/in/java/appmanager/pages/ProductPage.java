@@ -1,6 +1,6 @@
-package first.testtask.in.java.appmanager.pages;
+package first.UItesttask.in.java.appmanager.pages;
 
-import first.testtask.in.java.appmanager.HelperBase;
+import first.UItesttask.in.java.appmanager.HelperBase;
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
 

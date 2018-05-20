@@ -1,7 +1,6 @@
-package first.testtask.in.java.appmanager;
+package first.UItesttask.in.java.appmanager;
 
-import com.sun.glass.ui.View;
-import first.testtask.in.java.appmanager.pages.*;
+import first.UItesttask.in.java.appmanager.pages.*;
 import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;

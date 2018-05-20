@@ -1,6 +1,6 @@
-package first.testtask.in.java.tests;
+package first.UItesttask.in.java.tests;
 
-import first.testtask.in.java.appmanager.ApplicationManager;
+import first.UItesttask.in.java.appmanager.ApplicationManager;
 import org.testng.annotations.*;
 
 public class TestBase {

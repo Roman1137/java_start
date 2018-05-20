@@ -3,20 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="554dac13-7344-4bee-8a9b-8670efcd8c6a" name="Default" comment="test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-task/out/test/classes/first/testtask/in/java/appmanager/ApplicationManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/out/test/classes/first/testtask/in/java/appmanager/ApplicationManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-task/out/test/classes/first/testtask/in/java/appmanager/HelperBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/out/test/classes/first/testtask/in/java/appmanager/HelperBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-task/out/test/classes/first/testtask/in/java/appmanager/MonitorPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-task/out/test/classes/first/testtask/in/java/appmanager/NoteBookPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-task/out/test/classes/first/testtask/in/java/appmanager/ProductPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-task/out/test/classes/first/testtask/in/java/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/out/test/classes/first/testtask/in/java/tests/TestBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-task/out/test/classes/first/testtask/in/java/tests/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/out/test/classes/first/testtask/in/java/tests/Tests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/HelperBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/MonitorPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/MonitorPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/NoteBookPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/NoteBookPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/ProductsSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/ProductsSearchPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/tests/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/tests/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/tests/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/ApplicationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/HelperBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/MonitorPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/pages/MonitorPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/NoteBookPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/pages/NoteBookPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/pages/ProductPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/ProductsSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/pages/ProductsSearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/tests/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/tests/Tests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/sandbox/.gradle/" />
     <ignored path="$PROJECT_DIR$/sandbox/build/" />
@@ -71,7 +66,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Tests.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/tests/Tests.java">
+        <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/tests/Tests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="24" selection-start-line="24" selection-end-line="24" />
@@ -82,92 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/tests/TestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/MainPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MonitorPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/MonitorPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NoteBookPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/NoteBookPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/ProductPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductsSearchPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/ProductsSearchPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ApplicationManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/ApplicationManager.java">
+        <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/ApplicationManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelperBase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/HelperBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="139">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1353,6 +1267,7 @@
         <option value="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/NoteBookPage.java" />
         <option value="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/MainPage.java" />
         <option value="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/ApplicationManager.java" />
       </list>
     </option>
   </component>
@@ -1380,15 +1295,6 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="test-task" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -1423,25 +1329,6 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-task" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="appmanager" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-task" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="appmanager" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
@@ -1491,7 +1378,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Tests">
+  <component name="RunManager" selected="TestNG.Tests (1)">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgram" />
       <module name="sandbox_main" />
@@ -1516,22 +1403,22 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="GroupCreationTests.verifyGroupCreating" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="addressbook-web-tests_test" />
+    <configuration name="Tests (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test-task_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.stqa.pft.addressbook.appmanager.*" />
+          <option name="PATTERN" value="first.UItesttask.in.java.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.tests.GroupCreationTests" />
-      <option name="METHOD_NAME" value="verifyGroupCreating" />
+      <option name="PACKAGE_NAME" value="first.UItesttask.in.java.tests" />
+      <option name="MAIN_CLASS_NAME" value="first.UItesttask.in.java.tests.Tests" />
+      <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -1561,6 +1448,35 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Tests.VerifyAmountOfProducts (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test-task_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="first.UItesttask.in.java.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="first.UItesttask.in.java.tests" />
+      <option name="MAIN_CLASS_NAME" value="first.UItesttask.in.java.tests.Tests" />
+      <option name="METHOD_NAME" value="VerifyAmountOfProducts" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -1632,35 +1548,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="Tests.VerifyProductByProdId" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="test-task_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="first.testtask.in.java.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="first.testtask.in.java.tests" />
-      <option name="MAIN_CLASS_NAME" value="first.testtask.in.java.tests.Tests" />
-      <option name="METHOD_NAME" value="VerifyProductByProdId" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -1685,19 +1572,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.MyFirstProgram" />
-      <item itemvalue="TestNG.GroupCreationTests.verifyGroupCreating" />
       <item itemvalue="TestNG.Tests.VerifyAmountOfProducts" />
       <item itemvalue="TestNG.Tests.VerifyPriceConstraints" />
-      <item itemvalue="TestNG.Tests.VerifyProductByProdId" />
       <item itemvalue="TestNG.Tests" />
+      <item itemvalue="TestNG.Tests.VerifyAmountOfProducts (1)" />
+      <item itemvalue="TestNG.Tests (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Tests (1)" />
+        <item itemvalue="TestNG.Tests.VerifyAmountOfProducts (1)" />
         <item itemvalue="TestNG.Tests" />
         <item itemvalue="TestNG.Tests.VerifyPriceConstraints" />
         <item itemvalue="TestNG.Tests.VerifyAmountOfProducts" />
-        <item itemvalue="TestNG.Tests.VerifyProductByProdId" />
-        <item itemvalue="TestNG.GroupCreationTests.verifyGroupCreating" />
       </list>
     </recent_temporary>
   </component>
@@ -1723,9 +1610,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests - 2018.05.20 at 23h 06m 38s.xml">
-      <configuration name="Tests" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="Tests_VerifyAmountOfProducts - 2018.05.20 at 23h 09m 16s.xml">
       <configuration name="Tests.VerifyAmountOfProducts" configurationId="TestNG" />
     </history-entry>
@@ -1753,6 +1637,9 @@
     <history-entry file="Tests - 2018.05.20 at 23h 45m 47s.xml">
       <configuration name="Tests" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="Tests_(1) - 2018.05.21 at 00h 02m 15s.xml">
+      <configuration name="Tests (1)" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1765,22 +1652,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="386" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297062" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49947917" weight="0.30448222" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49947917" weight="0.3044776" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50104165" side_tool="true" weight="0.2314225" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49947917" weight="0.33623505" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49895832" visible="true" weight="0.26738796" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49947917" weight="0.32388058" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49895832" visible="true" weight="0.26716417" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22314675" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.215959" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.32916668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1788,13 +1674,34 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33230293" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Designer" order="2" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.32916668" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297062" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49947917" weight="0.33623505" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49895832" visible="true" weight="0.26738796" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33230293" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50104165" side_tool="true" weight="0.2314225" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.28748068" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49947917" weight="0.30448222" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22314675" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -2079,7 +1986,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/ProductPage.java">
+    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/pages/ProductPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
@@ -2108,7 +2015,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/testData/TestData.java" />
-    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/tests/TestBase.java">
+    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/tests/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
@@ -2118,7 +2025,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/MonitorPage.java">
+    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/pages/MonitorPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
@@ -2128,7 +2035,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/HelperBase.java">
+    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/HelperBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
@@ -2138,7 +2045,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/ProductsSearchPage.java">
+    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/pages/ProductsSearchPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
@@ -2148,7 +2055,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/ProductPage.java">
+    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/pages/ProductPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
@@ -2158,14 +2065,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/NoteBookPage.java">
+    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/pages/NoteBookPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/pages/MainPage.java">
+    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/pages/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
@@ -2182,17 +2089,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/ApplicationManager.java">
+    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/ApplicationManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        <state relative-caret-position="139">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/tests/Tests.java">
+    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/tests/Tests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="24" selection-start-line="24" selection-end-line="24" />

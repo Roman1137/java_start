@@ -1,4 +1,4 @@
-package first.testtask.in.java.tests;
+package first.UItesttask.in.java.tests;
 
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;

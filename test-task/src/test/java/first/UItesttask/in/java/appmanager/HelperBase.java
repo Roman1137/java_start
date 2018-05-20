@@ -1,4 +1,4 @@
-package first.testtask.in.java.appmanager;
+package first.UItesttask.in.java.appmanager;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
