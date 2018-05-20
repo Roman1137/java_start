@@ -1,8 +1,10 @@
-package first.testtask.in.java.appmanager;
+package first.testtask.in.java.appmanager.pages;
 
+import first.testtask.in.java.appmanager.HelperBase;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
 import java.util.List;

@@ -16,5 +16,8 @@ public class ProductsSearchPage extends HelperBase {
         return header.getText();
     }
 
+
+
     public String headerLocator = "h1";
+
 }
