@@ -29,20 +29,20 @@ public class NoteBookPage extends HelperBase {
         return filterWithValidDropDown;
     }
 
-    public String selectRandomValueInFiler(WebElement dropdown) {
-        List<WebElement> allOptions = this.getOptionsToSelect(dropdown);
+    public String selectRandomValueInFiler(WebElement filter) {
+        List<WebElement> allOptions = this.getOptionsToSelect(filter);
 
         WebElement optionToSelect = allOptions.get(0);
         WebElement checkboxToSelect = getCheckboxElement(optionToSelect);
         checkboxToSelect.click();
         String amountOfProducts = getAmountValueElement(optionToSelect).getText().replace("(","").replace(")","");
-        applySearch(dropdown);
+        applySearch(filter);
 
         return amountOfProducts;
     }
 
-    private void applySearch(WebElement dropdown){
-        getSubmitButton(dropdown).click();
+    private void applySearch(WebElement filter){
+        getSubmitButton(filter).click();
     }
 
     public String filtersTableLocator = "#filters";

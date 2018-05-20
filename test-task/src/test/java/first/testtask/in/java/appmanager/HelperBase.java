@@ -1,5 +1,6 @@
 package first.testtask.in.java.appmanager;
 
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -14,5 +15,10 @@ public class HelperBase {
         this.driver = driver;
         this.wait = new WebDriverWait(driver, 10);
         this.rnd = new Random();
+    }
+
+    public void clearSendKeys(WebElement element, String text){
+        element.clear();
+        element.sendKeys(text);
     }
 }
