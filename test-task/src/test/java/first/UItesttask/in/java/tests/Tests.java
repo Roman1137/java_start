@@ -12,7 +12,7 @@ import java.util.List;
 public class Tests extends TestBase {
 
     @Test
-    public void VerifyAmountOfProducts() {
+    public void verifyAmountOfProducts() {
         app.getNoteBookHelper().open();
         WebElement filterElement = app.getNoteBookHelper().selectRandomFilterWithValues();
         String productsAmount = app.getNoteBookHelper().selectRandomValueInFiler(filterElement);
@@ -20,8 +20,8 @@ public class Tests extends TestBase {
         Assert.assertTrue(productAmountDisplayed.contains(productsAmount));
     }
 
-    @Test(dataProvider = "pricesForFilter")
-    public void VerifyPriceConstraints(String filterName, String minPrice, String maxPrice) {
+    @Test(dataProvider = "getPricesForFilter")
+    public void verifyPriceConstraints(String filterName, String minPrice, String maxPrice) {
         app.getMonitorPageHelper().open();
         WebElement filter = app.getMonitorPageHelper().selectFilterByName(filterName);
         app.getMonitorPageHelper()
@@ -32,8 +32,8 @@ public class Tests extends TestBase {
         Assert.assertTrue(Integer.parseInt(price) >= Integer.parseInt(minPrice));
     }
 
-    @Test(dataProvider = "prodIdList")
-    public void VerifyProductByProdId(String prodId) {
+    @Test(dataProvider = "getProdIdList")
+    public void verifyProductByProdId(String prodId) {
         app.getMainPageHelper()
                 .open()
                 .fillTheSearchFieldWithValue(prodId)
@@ -44,7 +44,7 @@ public class Tests extends TestBase {
     }
 
     @DataProvider
-    public Object[] prodIdList() {
+    public Object[] getProdIdList() {
         String values =
                 "J153289\n" +
                         "MQ3D2ZD/A\n" +
@@ -62,7 +62,7 @@ public class Tests extends TestBase {
     }
 
     @DataProvider
-    public Iterator<Object[]> pricesForFilter() {
+    public Iterator<Object[]> getPricesForFilter() {
         List<Object[]> list = new ArrayList<>();
         list.add(new Object[]{"Prijs", "1000", "5000"});
         return list.iterator();
