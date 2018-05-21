@@ -40,7 +40,7 @@ public class Tests extends TestBase {
                 .initSearch();
         Boolean isPageOpened = app.getProductPage().isPageOpened(prodId);
         Assert.assertTrue(isPageOpened, String.format
-                ("The page with prodId '{0}' should have opened but it didn't. ", prodId));
+                ("The page with prodId %s should have opened but it didn't. ", prodId));
     }
 
     @DataProvider

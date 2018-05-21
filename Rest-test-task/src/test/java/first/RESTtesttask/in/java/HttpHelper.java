@@ -12,13 +12,14 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 public class HttpHelper {
-    String url;
+    String url ="http://restcountries.eu/rest/v1/";
+    String jsonType = "application/json;charset=utf-8";
     HttpClient client;
 
-    public HttpHelper(String url) {
-        this.url = url;
+    public HttpHelper() {
         this.client = HttpClientBuilder.create().build();
     }
 
@@ -27,7 +28,7 @@ public class HttpHelper {
         return client.execute(request);
     }
 
-    public String getContentType(HttpResponse response){
+    public String getContentType(HttpResponse response) {
         Header header = response.getEntity().getContentType();
         return header.getValue();
     }
@@ -36,6 +37,17 @@ public class HttpHelper {
         BufferedReader rd = new BufferedReader(new InputStreamReader(response.getEntity().getContent()));
         String jsonValue = rd.readLine();
         Gson json = new Gson();
-        return json.fromJson(jsonValue, new TypeToken<Set<ResponseModel>>() {}.getType());
+        return json.fromJson(jsonValue, new TypeToken<Set<ResponseModel>>() {
+        }.getType());
+    }
+
+    public ResponseModel getModelByName(Set<ResponseModel> responseModels, String countryName) {
+        return responseModels.stream().filter(responseModel -> responseModel.getName().contains(countryName))
+                .collect(Collectors.toList()).get(0);
+    }
+
+    public boolean verifyTheCountriesHaveBorders(Set<ResponseModel> responseModels, String firstContryName, String secondContryAlias) {
+        ResponseModel model = getModelByName(responseModels, firstContryName);
+        return model.getBorders().stream().filter(x -> x.contains(secondContryAlias)).collect(Collectors.toList()).size() == 1;
     }
 }
