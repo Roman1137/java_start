@@ -6,7 +6,6 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -24,6 +23,7 @@ public class RestTests {
         Assert.assertTrue(client.verifyTheCountriesHaveBorders
                         (responseModels, fistsContryName, secondCountryAllias),
                 String.format("%s and %s should have borders", fistsContryName, secondCountryAllias));
+        client.dispose(response);
     }
 
     @Test(dataProvider = "getContryAndArea")
@@ -39,7 +39,7 @@ public class RestTests {
         Assert.assertTrue(actualContryArea > Double.parseDouble(area),
                 String.format("%s should have area more than %s and it has %s "
                         , fistsContryName, area, actualContryArea));
-
+        client.dispose(response);
 
         List<List<String>> list = new ArrayList<>();
         list.add(model.getBorders());

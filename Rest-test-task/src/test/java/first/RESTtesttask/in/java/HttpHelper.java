@@ -10,6 +10,7 @@ import org.apache.http.impl.client.HttpClientBuilder;
 
 import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.Set;
 import java.util.stream.Collectors;
@@ -21,6 +22,11 @@ public class HttpHelper {
 
     public HttpHelper() {
         this.client = HttpClientBuilder.create().build();
+    }
+    public void dispose(HttpResponse response) throws IOException {
+        if( response.getEntity() != null ) {
+            response.getEntity().getContent().close();
+        }
     }
 
     public HttpResponse sentGetRequest() throws IOException {
