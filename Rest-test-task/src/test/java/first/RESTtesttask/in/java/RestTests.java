@@ -40,8 +40,8 @@ public class RestTests {
                 String.format("%s should have area more than %s and it has %s "
                         , fistsContryName, area, actualContryArea));
 
-        List<List<String>> list = new ArrayList<>();
 
+        List<List<String>> list = new ArrayList<>();
         list.add(model.getBorders());
         ArrayList secondList = new ArrayList<String>();
         secondList.add(model.getName());
@@ -49,7 +49,7 @@ public class RestTests {
         secondList.add(model.getRegion());
         secondList.add(model.getPopulation().toString());
         list.add(secondList);
-        list.forEach(x->x.forEach(c->System.out.println(c)));
+        list.forEach(x -> x.forEach(c -> System.out.println(c)));
     }
 
     @DataProvider

@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="554dac13-7344-4bee-8a9b-8670efcd8c6a" name="Default" comment="test commit">
       <change beforePath="$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/HttpHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/HttpHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/ResponseModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/ResponseModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/RestTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/RestTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/tests/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/tests/Tests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/sandbox/.gradle/" />
     <ignored path="$PROJECT_DIR$/sandbox/build/" />
@@ -68,11 +66,8 @@
       <file leaf-file-name="RestTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/RestTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -95,7 +90,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tests.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Tests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/tests/Tests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -107,11 +102,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HttpHelper.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HttpHelper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/HttpHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-214">
-              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="313">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#572#573#0" expanded="true" />
@@ -167,8 +162,8 @@
       <file leaf-file-name="ResponseModel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/ResponseModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="-3087">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="e#849#850#0" expanded="true" />
                 <element signature="e#882#883#0" expanded="true" />
@@ -1806,10 +1801,10 @@
         <option value="$PROJECT_DIR$/test-task/src/test/java/first/testtask/in/java/appmanager/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/appmanager/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/Rest-test-task/build.gradle" />
-        <option value="$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/HttpHelper.java" />
         <option value="$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/ResponseModel.java" />
-        <option value="$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/RestTests.java" />
         <option value="$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/tests/Tests.java" />
+        <option value="$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/RestTests.java" />
+        <option value="$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/HttpHelper.java" />
       </list>
     </option>
   </component>
@@ -1839,29 +1834,29 @@
           <expand>
             <path>
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-task" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Rest-test-task" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-task" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Rest-test-task" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-task" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Rest-test-task" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-task" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Rest-test-task" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-task" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Rest-test-task" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -1906,7 +1901,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.RestTests.verifyArea">
+  <component name="RunManager" selected="TestNG.RestTests">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgram" />
       <module name="sandbox_main" />
@@ -2108,10 +2103,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RestTests" />
         <item itemvalue="TestNG.RestTests.verifyArea" />
         <item itemvalue="TestNG.RestTests.verifyLatviaBoders" />
         <item itemvalue="TestNG.RestTests.Test1" />
-        <item itemvalue="TestNG.RestTests" />
         <item itemvalue="TestNG.Tests (1)" />
       </list>
     </recent_temporary>
@@ -2138,9 +2133,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RestTests_verifyLatviaBoders - 2018.05.21 at 03h 12m 33s.xml">
-      <configuration name="RestTests.verifyLatviaBoders" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="RestTests_verifyArea - 2018.05.21 at 03h 28m 46s.xml">
       <configuration name="RestTests.verifyArea" configurationId="TestNG" />
     </history-entry>
@@ -2167,6 +2159,9 @@
     </history-entry>
     <history-entry file="RestTests_verifyArea - 2018.05.21 at 04h 03m 43s.xml">
       <configuration name="RestTests.verifyArea" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RestTests - 2018.05.21 at 04h 06m 01s.xml">
+      <configuration name="RestTests" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -2621,10 +2616,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/tests/Tests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="57" column="41" lean-forward="true" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/RestTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/ResponseModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="-3087">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="e#849#850#0" expanded="true" />
             <element signature="e#882#883#0" expanded="true" />
@@ -2720,32 +2732,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/HttpHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-214">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="313">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#572#573#0" expanded="true" />
             <element signature="e#636#637#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rest-test-task/src/test/java/first/RESTtesttask/in/java/RestTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-task/src/test/java/first/UItesttask/in/java/tests/Tests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="57" column="41" lean-forward="true" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
